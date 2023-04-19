@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm [Your Name], a developer from [Your Location] who likes to write code, drink coffee ☕️, and pet cats 🐱.
+I'm [Swrich](https://github.com/swrich), a Cat from Cat star who likes to sleep, drink milk ☕️, and pet code 🐱.
 
 ## 🔭 I’m currently working on
 
